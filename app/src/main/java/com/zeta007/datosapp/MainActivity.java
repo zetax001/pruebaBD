@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         resultado=findViewById(R.id.mostrarTxt);
 
     }
-
+// boton buscar
     public void buscar(View view) {
 
         DatabaseAcces databaseAcces=DatabaseAcces.getInstance(getApplicationContext());
