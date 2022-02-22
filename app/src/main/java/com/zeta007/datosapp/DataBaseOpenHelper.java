@@ -10,7 +10,7 @@ public class DataBaseOpenHelper extends SQLiteAssetHelper {
 
 
     //CONSTRUCTOR
-    //esto es una prueba
+
         public DataBaseOpenHelper (Context context){
 
             super(context,DATABASE_NAME,null,DATABASE_VERSION);
